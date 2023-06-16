@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "평생하는 개발 공부"
 description              : "An amazing website."
 url                      : "https://grujam.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
