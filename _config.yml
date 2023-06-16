@@ -20,7 +20,7 @@ title                    : "평생하는 개발 공부"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "평생하는 개발 공부"
-description              : "An amazing website."
+description              : "Until 100"
 url                      : "https://grujam.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "평생하는 개발 공부"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/MainImage.gif"
   bio              : "Game Programmer"
   location         : "Seoul, Korea"
   email            :
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/grujam"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
