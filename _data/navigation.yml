@@ -10,10 +10,3 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-Test:
-  - title: Coding Test
-    children:
-      - title: "Baekjoon"
-        url: /docs/quick-start-guide/
-      - title: "Programmers"
-        url:
