@@ -1,10 +1,10 @@
 ---
-title: Coding Test
+title: Test
 layout: category
-permalink: /categories/CodingTest/
-taxonomy: CodingTest
+permalink: /categories/Test/
+taxonomy: Test
 author_profile: true
 sidebar_main: true
 ---
 
-Coding Test Posts
+Test Posts

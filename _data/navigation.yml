@@ -2,8 +2,8 @@
 main:
   - title: "Category"
     url: /categories/
-  - title: "Coding Test"
-    url: /categories/CodingTest/
+  - title: "Test"
+    url: /categories/Coding-Test/
   # - title: "Sample Posts"
   #  url: /year-archive/
   # - title: "Sample Collections"
