@@ -1,19 +1,10 @@
 # main links
 main:
-  - title: "Home"
-    url: https://grujam.github.io/
-  - title: "Test"
-    url: https://grujam.github.io/Test/
+  - title: "Category"
+    url: /categories/
   # - title: "Sample Posts"
   #  url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-Test:
-  - title: Coding Test
-    children:
-      - title: "Baekjoon"
-        url: /docs/quick-start-guide/
-      - title: "Programmers"
-        url:
