@@ -4,6 +4,8 @@ main:
     url: /categories/
   - title: "C++"
     url: /categories/C++/
+  - title: "CodingTest"
+    url: /categories/CodingTest/
   # - title: "Sample Posts"
   #  url: /year-archive/
   # - title: "Sample Collections"
