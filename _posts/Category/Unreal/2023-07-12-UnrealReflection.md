@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Unreal Reflection System"
+title: "Unreal Reflection"
 categories: Unreal
 classes: wide
 ---
