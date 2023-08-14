@@ -4,6 +4,10 @@ main:
     url: /categories/
   - title: "C++"
     url: /categories/C++/
+  - title: "Computer Science"
+    url: /categories/ComputerScience/
+  - title: "Algorithm"
+    url: /categories/Algorithm/
   - title: "Unreal"
     url: /categories/Unreal/
   - title: "CodingTest"
