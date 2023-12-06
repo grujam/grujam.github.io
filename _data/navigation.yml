@@ -12,6 +12,8 @@ main:
     url: /categories/Unreal/
   - title: "CodingTest"
     url: /categories/CodingTest/
+  - title: "DirectX11"
+      url: /categories/DirectX11/
   - title: "Search"
     url: /search/
   # - title: "Sample Posts"
