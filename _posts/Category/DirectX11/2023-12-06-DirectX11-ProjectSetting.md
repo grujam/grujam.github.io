@@ -33,7 +33,7 @@ DirectX 11을 사용하기 위해 Header파일과 Library 파일들을 프로젝
 
 PropertySheet의 사용자 매크로에 DXH를 DirectX Header경로, DXL을 DirectX Library 경로로 설정합니다.
 
-![속성관리자](/assets/images/DirectX/속성관리자.PNG "속성관리자")
+![속성관리자](/assets/images/DirectX/속성관리자.PNG)
 *속성 관리자*
 
 ![사용자매크로](/assets/images/DirectX/사용자매크로.PNG "사용자 매크로")
