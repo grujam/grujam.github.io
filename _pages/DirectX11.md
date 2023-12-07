@@ -1,5 +1,5 @@
 ---
-title: "DirectX11"
+title: "DirectX 11"
 layout: category
 permalink: /categories/DirectX11/
 taxonomy: DirectX11
