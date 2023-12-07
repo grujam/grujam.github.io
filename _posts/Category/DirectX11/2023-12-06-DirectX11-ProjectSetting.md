@@ -37,19 +37,25 @@ PropertySheet의 사용자 매크로에 DXH를 DirectX Header경로, DXL을 Dire
 *속성 관리자*
 
 ![사용자매크로](/assets/images/DirectX/사용자매크로.PNG "사용자 매크로")
+*사용자 매크로*
 
 생성된 프로젝트의 속성에서 DXH와 DXL을 통해 DirectX와 Header와 Library를 포함합니다.
 
 ![Framework속성페이지](/assets/images/DirectX/Framework속성페이지.PNG "속성 페이지")
+*속성 페이지*
 
 DirectX 11 Texture와 IMGUI등을 사용할 수 있게 해주는 Library를 프로젝트의 폴더 옆에 _Libraries폴더로 생성하여 저장하고 프로젝트 라이브러리에 포함합니다.
 
 그 외에 프로젝트의 빠른 빌드와 편의성을 위해 다중 프로세서 컴파일, 미리 컴파일된 헤더를 설정하고, 준수 모드를 끕니다.
 
 ![Framework속성C++](/assets/images/DirectX/Framework속성C++.PNG "C/C++ 속성 설정")
+*C/C++ 속성 설정*
 
 ![Framework속성준수모드](/assets/images/DirectX/Framework속성준수모드.PNG "준수모드")
+*준수모드 설정*
 
 ![Framework속성미리컴파일된헤더](/assets/images/DirectX/Framework속성미리컴파일된헤더.PNG "미리 컴파일된 헤더")
+*미리 컴파일 된 헤더 설정*
 
 ![Framework속성라이브러리관리자](/assets/images/DirectX/Framework속성라이브러리관리자.PNG "라이브러리 관리자")
+*라이브러리 관리자 추가*
