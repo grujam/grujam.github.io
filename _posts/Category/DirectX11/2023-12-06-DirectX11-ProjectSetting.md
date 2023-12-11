@@ -59,3 +59,37 @@ DirectX 11 Texture와 IMGUI등을 사용할 수 있게 해주는 Library를 프�
 
 ![Framework속성라이브러리관리자](/assets/images/DirectX/Framework속성라이브러리관리자.PNG "라이브러리 관리자")
 *라이브러리 관리자 추가*
+
+
+### Framework 및 UnitTest 설정
+
+DirectX 11의 렌더링, Window 등의 기능들을 구현해둔 파일을 Framework 프로젝트에 추가합니다. 해당 파일들의 구현 내용은 프로젝트를 진행하며 추가 포스트로 설명예정입니다.
+
+이 후 실제 프로젝트의 코드가 진행될 프로젝트 UnitTest를 생성하고 Framework의 속성과 동일하게 Setting 및 빌드 종속성을 통해 Framework가 우선적으로 빌드되게 합니다.
+
+![빌드 종속성](/asset/images/DirectX/빌드종속성.PNG)
+*빌드 종속성*
+
+
+**Debug 파일**
+
+Debug 파일은 프로젝트를 진행하며 많은 용량을 잡아먹기 때문에 지속적인 삭제를 요합니다.
+
+이를 편하게 삭제하기 위해 프로젝트 폴더 최상단에 모든 Debug 파일을 모아놓으려면 속성의 일반에 다음과 같은 명령줄을 추가합니다.
+
+   > $(SolutionDir)Debug_$(ProjectName)\
+
+이 명령어를 통해 프로젝트 폴더의 최상단에는 Debug_Framework 폴더와 Debug_UnitTest 폴더가 생성되며 모든 Debug 내용들은 기존의 Debug폴더와 더불어 최상단의 3개의 폴더에서 관리할 수 있습니다.
+
+
+**Framework 파일**
+
+UnitTest는 빌드를 위해 Framework.lib와 Framework.pdb 파일을 해당 프로젝트 폴더 내에 필요로 합니다.
+
+Framework.lib와 Framework.pdb는 Framework 빌드 후에 Debug 폴더에 나오는 결과물로, 빌드 후 이벤트를 통해 해당 lib와 pdb파일을 UnitTest폴더로 복사시켜주어야 합니다.
+
+![빌드후이벤트](/assets/images/DirectX/빌드후이벤트.PNG)
+*빌드 후 두 파일을 UnitTest폴더로 복사 명령어*
+
+![UnitTest폴더](/assets/images/DirectX/UnitTest폴더.PNG)
+*복사 후 UnitTest 폴더*
