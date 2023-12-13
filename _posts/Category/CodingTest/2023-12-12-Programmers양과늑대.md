@@ -7,12 +7,12 @@ classes: wide
 
 Problem Link: <https://school.programmers.co.kr/learn/courses/30/lessons/92343>
 
+### 문제 설명
+
 Site: Programmers   
 Name: 양과 늑대   
 Category: Bitmasking, FloodFill     
 Rank: Lv.3
-
-### 문제 설명
 
 양과 늑대로 이루어진 이진트리가 주어지며, 양을 항상 늑대보다 많은 상태로 있어야 할 때 루트 노드에서 시작하여 데려올 수 있는 양의 최댓값을 구하는 문제입니다.
 
