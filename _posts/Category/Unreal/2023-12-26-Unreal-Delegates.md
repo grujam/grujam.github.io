@@ -5,7 +5,7 @@ categories: Unreal
 classes: wide
 ---
 
-### Unreal Engine - Delegates
+## Unreal Engine - Delegates
 
 Delegate는 C++ 오브젝트 상의 멤버 함수를 가리키고 실행시키는 데이터 유형입니다.
 
@@ -21,7 +21,7 @@ Delegate는 C++ 오브젝트 상의 멤버 함수를 가리키고 실행시키�
 - Dynamic: Single 또는 Multi 캐스트가 가능한 직렬화를 지원하는 델리게이트입니다
 
 
-### Delegate 선언
+## Delegate 선언
 
 Delegate 선언은 기본적으로 DECLARE_로 시작하며, Single, Multi, Event, Dynamic, 매개변수, 반환값 등에 따라 선언 방법이 바뀝니다.
 
@@ -33,7 +33,7 @@ Delegate 선언은 기본적으로 DECLARE_로 시작하며, Single, Multi, Even
 > DECLARE_DELEGATE_RetVal_TwoParams: 반환값과 두 개의 매개변수를 갖는 델리게이트   
 
 
-### Delegate 호출
+## Delegate 호출
 
 Single-Cast의 경우 Bind의 이름을 갖는 여러 함수를 통해 함수를 지정하며, Multi-Cast의 경우 Add의 이름을 갖는 함수를 통해 함수를 묶습니다.
 
