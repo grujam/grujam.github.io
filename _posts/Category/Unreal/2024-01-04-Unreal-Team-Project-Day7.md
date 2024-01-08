@@ -7,7 +7,7 @@ classes: wide
 
 # Day 7 : SkillComponent and SkillData
 
-## 2024.01.03 Wednesday Scrum Log
+## 2024.01.04 Thursday Scrum Log
 
 - MH, 작성자 → SkillComponent 및 SkillData 추가 작업
 
