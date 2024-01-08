@@ -7,7 +7,7 @@ classes: wide
 
 # Day 5 : Ring
 
-## 2023.12.28 Tuesday Scrum Log
+## 2024.01.02 Tuesday Scrum Log
 
 - MH → 가족여행으로 인한 휴가
 
