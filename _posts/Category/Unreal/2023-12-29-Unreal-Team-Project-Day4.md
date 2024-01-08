@@ -5,7 +5,7 @@ categories: Unreal
 classes: wide
 ---
 
-# Day 3 : IDamageable Interface
+# Day 4 : IDamageable Interface
 
 ## 2023.12.28 Friday Scrum Log
 
@@ -85,8 +85,6 @@ Hit Interface의 내용을 재정의 하여 Player에 적용
 구현 내용은 추후 ResourceComponent 업데이트 후 추가 적용
 
 **자기장 클래스 Ring**
-
-
 
 ```cpp
 //Ring.h
