@@ -7,7 +7,7 @@ classes: wide
 
 # Day 11 : Character Color Replication
 
-## 2024.01.09 Wednesday Scrum Log
+## 2024.01.10 Wednesday Scrum Log
 
 ### Daily Review
 
