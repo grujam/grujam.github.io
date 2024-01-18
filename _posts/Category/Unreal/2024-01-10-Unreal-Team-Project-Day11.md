@@ -5,7 +5,7 @@ categories: Unreal
 classes: wide
 ---
 
-# Day 11 : Hit Launch Replication
+# Day 11 : Character Color Replication
 
 ## 2024.01.09 Wednesday Scrum Log
 
