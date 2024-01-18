@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "네임 스페이스"
+title: "네임 스페이스 (namespace)"
 categories: C++
 classes: wide
 ---
 
-## 네임 스페이스 (NameSpace)
+## 네임 스페이스 (namespace)
 
 네임 스페이스는 이름 충돌 해결을 위해 등장한 방법입니다.
 
@@ -86,3 +86,5 @@ namespace iamverylong::toolongtowritedown::stopgettinglonger
 //다른 이름으로 사용할 수 있다
 namespace longname = iamverylong::toolongtowritedown::stopgettinglonger;
 ```
+
+*참조: 마크 그레고리, "전문가를 위한 C++"*
