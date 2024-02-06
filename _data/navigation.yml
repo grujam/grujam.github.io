@@ -6,8 +6,8 @@ main:
     url: /categories/C++/
   - title: "Computer Science"
     url: /categories/ComputerScience/
-  - title: "Algorithm"
-    url: /categories/Algorithm/
+  - title: "Algorithm & Database"
+    url: /categories/A&D/
   - title: "Unreal"
     url: /categories/Unreal/
   - title: "CodingTest"
