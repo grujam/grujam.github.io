@@ -1,8 +1,8 @@
 ---
-title: "Alg & DB"
+title: "Books"
 layout: category
-permalink: /categories/A&D/
-taxonomy: A&D
+permalink: /categories/Books/
+taxonomy: Books
 author_profile: true
 sidebar_main: true
 ---

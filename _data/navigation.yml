@@ -4,16 +4,18 @@ main:
     url: /categories/
   - title: "C++"
     url: /categories/C++/
-  - title: "Computer Science"
+  - title: "CS"
     url: /categories/ComputerScience/
-  - title: "Algorithm & Database"
+  - title: "Alg & DB"
     url: /categories/A&D/
   - title: "Unreal"
     url: /categories/Unreal/
   - title: "CodingTest"
     url: /categories/CodingTest/
-  - title: "DirectX11"
+  - title: "DX 11"
     url: /categories/DirectX11/
+  - title: "Books"
+    url: /categories/Books/
   - title: "Search"
     url: /search/
   # - title: "Sample Posts"

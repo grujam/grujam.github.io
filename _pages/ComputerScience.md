@@ -1,5 +1,5 @@
 ---
-title: "Computer Science"
+title: "CS"
 layout: category
 permalink: /categories/ComputerScience/
 taxonomy: ComputerScience
